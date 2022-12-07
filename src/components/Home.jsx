@@ -5,13 +5,13 @@ const Home = () => {
   return (
     <div name='home' className='w-full h-screen bg-[#0a192f]'>
         {/* container */}
-        <div className='max-w-[100px] mx-auto px-8 flex flex-col justify-center h-full'>
-            <p> Hi my name is </p>
-            <h1>Dimitra Anastasopoulos</h1>
-            <h2>I am a Full Stack Developer.</h2>
-            <p> I'm a full-stack developer with a strong skillset in building web applications and solving problems. I graduated from Ohio State's Coding Bootcamp in January 2023. I have worked in teams to create projects. My goal is to create efficient products to help users have a seamless experience. I have a passion for learning new things, problem-solving, and collaborating. </p>
+        <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
+            <p className='text-white'> Hi my name is </p>
+            <h1 className='text-4xl font-bold text-[#a66baf]'>Dimitra Anastasopoulos</h1>
+            <h2 className='text-4xl font-cold text-[#8892b0]'>I'm a Full Stack Developer.</h2>
+            <p className='text-[#8892b0] py-4 max-w-[700px]'> Full-stack developer passionate in writing code and working with new technologies.</p>
             <div>
-                <button>My Work </button>
+                <button className='text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-[#a66baf]'>My Work </button>
             </div>
         </div>
     </div>
