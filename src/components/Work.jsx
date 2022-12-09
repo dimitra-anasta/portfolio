@@ -47,7 +47,70 @@ const Work = () => {
                         </div>
                     </div>
                 </div>
-                
+                <div style={{backgroundImage:`url(${DnsImg})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    {/* hover effects */}
+                    <div className='opacity-0 group-hover:opacity-100'>   
+                        <span className='text-2xl font-bold text-gray-300 tracking-wider'>
+                            Server-side API Application
+                        </span>
+                        <div className='pt-8 text-center'>
+                         <a href="/https://shahidhashmi1.github.io/DNS-Live/">
+                            <button className='text-centre rounded-lg px-4 py-5 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                            </a>
+                        <a href="/https://github.com/ShahidHashmi1/DNS-Live">
+                            <button>Code</button>
+                        </a>
+                        </div>
+                    </div>
+                </div>
+                <div style={{backgroundImage:`url(${partyPlanner})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    {/* hover effects */}
+                    <div className='opacity-0 group-hover:opacity-100'>   
+                        <span className='text-2xl font-bold text-gray-300 tracking-wider'>
+                            Full-stack Application
+                        </span>
+                        <div className='pt-8 text-center'>
+                         <a href="/">
+                            <button className='text-centre rounded-lg px-4 py-5 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                            </a>
+                        <a href="/">
+                            <button>Code</button>
+                        </a>
+                        </div>
+                    </div>
+                </div>
+                <div style={{backgroundImage:`url(${DnsImg})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    {/* hover effects */}
+                    <div className='opacity-0 group-hover:opacity-100'>   
+                        <span className='text-2xl font-bold text-gray-300 tracking-wider'>
+                            Server-side API Application
+                        </span>
+                        <div className='pt-8 text-center'>
+                         <a href="/https://shahidhashmi1.github.io/DNS-Live/">
+                            <button className='text-centre rounded-lg px-4 py-5 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                            </a>
+                        <a href="/https://github.com/ShahidHashmi1/DNS-Live">
+                            <button>Code</button>
+                        </a>
+                        </div>
+                    </div>
+                </div>
+                <div style={{backgroundImage:`url(${partyPlanner})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    {/* hover effects */}
+                    <div className='opacity-0 group-hover:opacity-100'>   
+                        <span className='text-2xl font-bold text-gray-300 tracking-wider'>
+                            Full-stack Application
+                        </span>
+                        <div className='pt-8 text-center'>
+                         <a href="/">
+                            <button className='text-centre rounded-lg px-4 py-5 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                            </a>
+                        <a href="/">
+                            <button>Code</button>
+                        </a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
