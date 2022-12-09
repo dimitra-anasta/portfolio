@@ -1,5 +1,4 @@
 import React from 'react'
-import {HiArrrowNarrowRight} from 'react-icons/hi'
 import Portrait from '../assets/portrait.png'
 
 const Home = () => {
