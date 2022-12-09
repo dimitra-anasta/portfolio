@@ -1,6 +1,5 @@
 # React Portfolio
 
-https://dimitra-anasta.github.io/portfolio/
 
 ![img](src/assets/screenshot.png)
 
