@@ -16,7 +16,7 @@ import React from 'react'
                         <p>Hi, I'm Dimitra, nice to meet you. Thanks for stopping by.</p>
                     </div>
                     <div>
-                        <p>Full-stack developer with a strong skillset in building web applications and solving problems. I graduated from Ohio State's Coding Bootcamp in January 2023. I have worked in teams to create projects. My goal is to create efficient products to help users have a seamless experience. I have a passion for learning new things, problem-solving, and collaborating.</p>
+                        <p>Full-stack developer with a strong skillset in building web applications and solving problems. I graduated from Ohio State's Coding Bootcamp. I have worked in teams to create projects. My goal is to create efficient products to help users have a seamless experience. I have a passion for learning new things, problem-solving, and collaborating.</p>
                     </div>
                     </div>
              </div>
