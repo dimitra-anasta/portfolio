@@ -38,10 +38,10 @@ const Work = () => {
                             Full-stack Application
                         </span>
                         <div className='pt-8 text-center'>
-                         <a href="/">
+                         <a href="/https://party-planner.herokuapp.com/login">
                             <button className='text-centre rounded-lg px-4 py-5 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                        <a href="/">
+                        <a href="/https://github.com/Nickmason01/Party-Planner">
                             <button>Code</button>
                         </a>
                         </div>
