@@ -22,10 +22,10 @@ const Work = () => {
                             Server-side API Application
                         </span>
                         <div className='pt-8 text-center'>
-                         <a href="/https://shahidhashmi1.github.io/DNS-Live/">
-                            <button className='text-centre rounded-lg px-4 py-5 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                         <a href="https://shahidhashmi1.github.io/DNS-Live/">
+                            <button className='text-center rounded-lg px-4 py-5 m-2 hover:bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                        <a href="/https://github.com/ShahidHashmi1/DNS-Live">
+                        <a href="https://github.com/ShahidHashmi1/DNS-Live">
                             <button>Code</button>
                         </a>
                         </div>
@@ -38,10 +38,10 @@ const Work = () => {
                             Full-stack Application
                         </span>
                         <div className='pt-8 text-center'>
-                         <a href="/https://party-planner.herokuapp.com/login">
-                            <button className='text-centre rounded-lg px-4 py-5 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                         <a href="https://party-planner.herokuapp.com/login">
+                            <button className='text-centre rounded-lg px-4 py-5 m-2 hover:bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                        <a href="/https://github.com/Nickmason01/Party-Planner">
+                        <a href="https://github.com/Nickmason01/Party-Planner">
                             <button>Code</button>
                         </a>
                         </div>
@@ -54,10 +54,10 @@ const Work = () => {
                             Server-side API Application
                         </span>
                         <div className='pt-8 text-center'>
-                         <a href="/https://shahidhashmi1.github.io/DNS-Live/">
-                            <button className='text-centre rounded-lg px-4 py-5 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                         <a href="https://shahidhashmi1.github.io/DNS-Live/">
+                            <button className='text-centre rounded-lg px-4 py-5 m-2 hover:bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                        <a href="/https://github.com/ShahidHashmi1/DNS-Live">
+                        <a href="https://github.com/ShahidHashmi1/DNS-Live">
                             <button>Code</button>
                         </a>
                         </div>
@@ -71,7 +71,7 @@ const Work = () => {
                         </span>
                         <div className='pt-8 text-center'>
                          <a href="/">
-                            <button className='text-centre rounded-lg px-4 py-5 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                            <button className='text-centre rounded-lg px-4 py-5 m-2 hover:bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
                         <a href="/">
                             <button>Code</button>
@@ -86,10 +86,10 @@ const Work = () => {
                             Server-side API Application
                         </span>
                         <div className='pt-8 text-center'>
-                         <a href="/https://shahidhashmi1.github.io/DNS-Live/">
-                            <button className='text-centre rounded-lg px-4 py-5 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                         <a href="https://shahidhashmi1.github.io/DNS-Live/">
+                            <button className='text-centre rounded-lg px-4 py-5 m-2 hover:bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                        <a href="/https://github.com/ShahidHashmi1/DNS-Live">
+                        <a href="https://github.com/ShahidHashmi1/DNS-Live">
                             <button>Code</button>
                         </a>
                         </div>
@@ -103,7 +103,7 @@ const Work = () => {
                         </span>
                         <div className='pt-8 text-center'>
                          <a href="/">
-                            <button className='text-centre rounded-lg px-4 py-5 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                            <button className='text-centre rounded-lg px-4 py-5 m-2 hover:bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
                         <a href="/">
                             <button>Code</button>
