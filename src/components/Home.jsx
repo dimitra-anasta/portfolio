@@ -1,5 +1,6 @@
 import React from 'react'
 import Portrait from '../assets/portrait.png'
+import { Link } from 'react-scroll'
 
 const Home = () => {
   return (
@@ -12,9 +13,10 @@ const Home = () => {
             <h1 className='text-4xl font-bold text-[#a66baf]'>Dimitra Anastasopoulos</h1>
             <h2 className='text-4xl font-cold text-[#8892b0]'>I'm a Full Stack Developer.</h2>
             <p className='text-[#8892b0] py-4 max-w-[700px]'> Full-stack developer passionate in writing code and working with new technologies.</p>
+            <Link to="work" smooth='true'>
             <div>
                 <button className='text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-[#a66baf]'>My Work </button>
-            </div>
+            </div></Link>
         </div>
     </div>
   )
