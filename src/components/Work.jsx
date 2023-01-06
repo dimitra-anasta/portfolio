@@ -2,6 +2,7 @@ import React from "react";
 import Project from "./Project";
 import partyPlanner from '../assets/partyplanner.png';
 import dnsImage from '../assets/dns.png';
+import hellohiker from '../assets/hellohiker'
 
 
 const Work = () => {
@@ -34,6 +35,12 @@ const Work = () => {
               bgImage={dnsImage}
               deployLink="https://shahidhashmi1.github.io/DNS-Live/"
               codeLink="https://github.com/ShahidHashmi1/DNS-Live"
+            />
+              <Project
+              title="Full-stack Application"
+              bgImage={hellohiker}
+              deployLink="https://hellohiker.herokuapp.com/"
+              codeLink="https://github.com/ShahidHashmi1/HelloHiker"
             />
           </div>
         </div>
